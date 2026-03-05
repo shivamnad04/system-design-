@@ -3,7 +3,7 @@ using namespace std;
 
 /* Open/Closed Principle is a fundamental principle in software engineering that states that software entities (classes, modules, functions, etc.) should be open for extension but closed for modification. This means that you should be able to add new functionality to a class without modifying its existing code. */
 
-// violation of OCP
+// followed OCP
 
 class Product
 {
