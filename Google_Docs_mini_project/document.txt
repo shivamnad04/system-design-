@@ -1,0 +1,6 @@
+Hello, World!
+
+
+[img src='path/to/image.jpg']
+	
+This is a mini project.
